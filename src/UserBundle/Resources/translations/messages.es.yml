@@ -1,0 +1,28 @@
+New User: Crear usuario
+
+Entidad:
+    Usuario:
+        Administrator: Administrador
+        User: Usuario
+        Username: Apodo
+        First name: Nombre
+        Last name: Apellidos
+        Email: Email
+        Role: Rol
+        Created: Creado
+        Updated: Actualizado
+        Actions: Acciones
+        Your Usename: Nombre de usuarios
+        Your first name: Nombre
+        Your last name: Apellidos
+        Create User: Crear Usuario
+Menu:
+    Assignments: Asignaciones
+    Users:  Usuarios
+    List users: Listar Usuarios
+    New user: Nuevo usuario
+
+Botones:
+    View: Ver
+    Edit: Editar
+    Delete: Borrar

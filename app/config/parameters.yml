@@ -1,0 +1,12 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_host: localhost
+    database_port: null
+    database_name: c9
+    database_user: root
+    database_password: null
+    mailer_transport: gmail
+    mailer_host: null
+    mailer_user: sdiaz@interiorvista.net
+    mailer_password: 'Inetw0116'
+    secret: '0{r)/>0^F1w5'
